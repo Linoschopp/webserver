@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column; /* Inhalte untereinander anordnen */
+  align-items: center; /* Zentriert horizontal */
+  min-height: 100vh; /* Sorgt dafür, dass der Container den gesamten Bildschirm einnimmt */
+  font-family: "Rooney", sans-serif;
+
+  background-image: url("bild.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.7); /* Hintergrundfarbe mit Transparenz */
+  padding: 18px; /* Innenabstand der Box */
+  border-radius: 13px; /* Abgerundete Ecken */
+  margin-top: 7%
+}
+
+.text-field {
+  font-size: 64px; /* Schriftgröße des Textfelds */
+}
+
+#info {
+  margin-bottom: 5px
+}
