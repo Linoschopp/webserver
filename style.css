@@ -10,7 +10,7 @@ body {
   min-height: 100vh; /* Sorgt dafür, dass der Container den gesamten Bildschirm einnimmt */
   font-family: "Rooney", sans-serif;
 
-  background-image: url("bild.jpg");
+  background-image: url("bild.jpeg");
   background-position: center;
   background-size: cover;
   font-size: 48px
