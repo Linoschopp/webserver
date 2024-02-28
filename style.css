@@ -13,6 +13,7 @@ body {
   background-image: url("bild.jpg");
   background-position: center;
   background-size: cover;
+  font-size: 48px
 }
 
 .container {
