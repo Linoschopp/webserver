@@ -1,7 +1,6 @@
 html, body {
   height: 100%;
   width: 100%;
-  overflow: hidden;
 }
 
 body {
@@ -14,8 +13,6 @@ body {
   background-image: url("bild.jpg");
   background-position: center;
   background-size: cover;
-  color: white;
-  font-size: 48px;
 }
 
 .container {
